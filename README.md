@@ -17,3 +17,6 @@
  
  ### Doc of Cox-nnet 1.0
  http://traversc.github.io/cox-nnet/docs/
+ or Documentation of package 1.0 can be found at http://garmiregroup.org/cox-nnet/docs/. 
+An example of analyzing Cox-nnet through R can be found at: http://garmiregroup.org/cox-nnet/docs/examples/#interfacing-
+and-analysis-with-r
