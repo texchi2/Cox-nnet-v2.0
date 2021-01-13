@@ -14,3 +14,6 @@
 
  - permutationImportance - calculates variable importance (using permutation importance from Fisher, et al. 2018)
  - signOfBeta - calculates estimated direction of variable
+ 
+ ### Doc of Cox-nnet 1.0
+ http://traversc.github.io/cox-nnet/docs/
